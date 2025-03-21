@@ -1,0 +1,108 @@
+{
+  "type_db":[
+  {
+      "bunyang_index" : "1",
+      "bunyang_title":"LH센트럴힐(공공임대)",
+      "bunyang_addr":"서울시 송파구 문정동 12-2",
+      "bunyang_part":"아파트",
+      "bunyang_info":"공공임대",
+      "bunyang_date":"2023.09 분양",
+      "bunyang_in":"2025.02 입주",
+      "bunyang_img":"./room/room1.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 1,670세대 | 총 14개동",
+      "bunyang_company":"GS건설(주)"
+  },
+  {
+      "bunyang_index" : "2",
+      "bunyang_title":"힐스테이트e편한세상파주",
+      "bunyang_addr":"경기도 파주시 동패동 36-4",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.11 분양",
+      "bunyang_in":"2024.09 입주",
+      "bunyang_img":"./room/room2.jpg",
+      "bunyang_str":"지역난방,열병합",
+      "bunyang_scale":"총 1,200세대 | 총 6개동",
+      "bunyang_company":"(주)대광건영"
+  },
+  {
+      "bunyang_index" : "3",
+      "bunyang_title":"청주가경아이파크6단지",
+      "bunyang_addr":"청주시 가경동 64-3",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2027.01 입주",
+      "bunyang_img":"./room/room3.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 800세대 | 총 5개동",
+      "bunyang_company":"(주)제일건설"
+  },
+  {
+      "bunyang_index" : "4",
+      "bunyang_title":"원봉공원힐데스하임",
+      "bunyang_addr":"청주시 용암동 38-6",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2027.09 입주",
+      "bunyang_img":"./room/room4.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 600세대 | 총 4개동",
+      "bunyang_company":"GS건설(주)"
+  },
+  {
+      "bunyang_index" : "5",
+      "bunyang_title":"청계리버뷰자이(민간분양)",
+      "bunyang_addr":"서울시 성동구 용답동 3가 62-2",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2027.02 입주",
+      "bunyang_img":"./room/room5.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 650세대 | 총 6개동",
+      "bunyang_company":"롯데건설(주)"
+  },
+  {
+     "bunyang_index" : "6",
+      "bunyang_title":"제일풍경채검단IV(AA22)",
+      "bunyang_addr":"세종특별시 서구 원당동 21-4",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2027.02 입주",
+      "bunyang_img":"./room/room6.jpg",
+      "bunyang_str":"지역난방,열병합",
+      "bunyang_scale":"총 580세대 | 총 5개동",
+      "bunyang_company":"(주)세담종합건설"
+  },
+  {
+      "bunyang_index" : "7",
+      "bunyang_title":"소사역롯세캐슬더뉴엘",
+      "bunyang_addr":"부천시 소사본동 2가 23",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2027.08 입주",
+      "bunyang_img":"./room/room7.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 1200세대 | 총 11개동",
+      "bunyang_company":"(주)세담종합건설"
+  },
+  {
+     "bunyang_index" : "8",
+      "bunyang_title":"삼익더랩소디",
+      "bunyang_addr":"서울시 강서구 내발산동 3-2",
+      "bunyang_part":"아파트",
+      "bunyang_info":"민간분양",
+      "bunyang_date":"2023.12 분양",
+      "bunyang_in":"2024.01 입주",
+      "bunyang_img":"./room/room8.jpg",
+      "bunyang_str":"개별난방,도시가스",
+      "bunyang_scale":"총 800세대 | 총 7개동",
+      "bunyang_company":"현대엔지니어링(주)"
+  }
+]
+}
